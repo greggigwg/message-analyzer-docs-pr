@@ -1,4 +1,4 @@
----
+details: "An information roadmap into Message Analyzer Op Guide document structure with brief topic descriptions"
 title: "Microsoft Message Analyzer Operating Guide | Microsoft Docs"
 ms.custom: ""
 ms.date: "10/26/2016"
